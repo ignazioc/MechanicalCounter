@@ -1,0 +1,389 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EE24041A1398B96E009F5167 /* sfondo_devapp.png in Resources */ = {isa = PBXBuildFile; fileRef = EE2404191398B96E009F5167 /* sfondo_devapp.png */; };
+		EE24041D1398BAE1009F5167 /* button.png in Resources */ = {isa = PBXBuildFile; fileRef = EE24041C1398BAE1009F5167 /* button.png */; };
+		EE7381BA1398354600E14150 /* mc_10.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381A61398354600E14150 /* mc_10.png */; };
+		EE7381C41398354600E14150 /* mc_11.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381B01398354600E14150 /* mc_11.png */; };
+		EE7381C51398354600E14150 /* mc_12.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381B11398354600E14150 /* mc_12.png */; };
+		EE7381C61398354600E14150 /* mc_13.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381B21398354600E14150 /* mc_13.png */; };
+		EE7381C71398354600E14150 /* mc_15.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381B31398354600E14150 /* mc_15.png */; };
+		EE7381C81398354600E14150 /* mc_14.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381B41398354600E14150 /* mc_14.png */; };
+		EE7381C91398354600E14150 /* mc_16.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381B51398354600E14150 /* mc_16.png */; };
+		EE7381CA1398354600E14150 /* mc_17.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381B61398354600E14150 /* mc_17.png */; };
+		EE7381CB1398354600E14150 /* mc_18.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381B71398354600E14150 /* mc_18.png */; };
+		EE7381CC1398354600E14150 /* mc_19.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381B81398354600E14150 /* mc_19.png */; };
+		EE7381D713983CB200E14150 /* mc_1.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381CE13983CB000E14150 /* mc_1.png */; };
+		EE7381D813983CB200E14150 /* mc_2.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381CF13983CB000E14150 /* mc_2.png */; };
+		EE7381D913983CB200E14150 /* mc_3.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381D013983CB100E14150 /* mc_3.png */; };
+		EE7381DA13983CB200E14150 /* mc_4.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381D113983CB100E14150 /* mc_4.png */; };
+		EE7381DB13983CB200E14150 /* mc_5.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381D213983CB100E14150 /* mc_5.png */; };
+		EE7381DC13983CB200E14150 /* mc_6.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381D313983CB100E14150 /* mc_6.png */; };
+		EE7381DD13983CB200E14150 /* mc_7.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381D413983CB100E14150 /* mc_7.png */; };
+		EE7381DE13983CB200E14150 /* mc_8.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381D513983CB200E14150 /* mc_8.png */; };
+		EE7381DF13983CB200E14150 /* mc_9.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381D613983CB200E14150 /* mc_9.png */; };
+		EE7381E113983D0800E14150 /* mc_0.png in Resources */ = {isa = PBXBuildFile; fileRef = EE7381E013983D0800E14150 /* mc_0.png */; };
+		EEA20E45139808A600B95164 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA20E44139808A600B95164 /* UIKit.framework */; };
+		EEA20E47139808A600B95164 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA20E46139808A600B95164 /* Foundation.framework */; };
+		EEA20E49139808A600B95164 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EEA20E48139808A600B95164 /* CoreGraphics.framework */; };
+		EEA20E4F139808A600B95164 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EEA20E4D139808A600B95164 /* InfoPlist.strings */; };
+		EEA20E52139808A600B95164 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EEA20E51139808A600B95164 /* main.m */; };
+		EEA20E55139808A600B95164 /* MechanicalCounterAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EEA20E54139808A600B95164 /* MechanicalCounterAppDelegate.m */; };
+		EEA20E58139808A600B95164 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = EEA20E56139808A600B95164 /* MainWindow.xib */; };
+		EEA20E5B139808A600B95164 /* MechanicalCounterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EEA20E5A139808A600B95164 /* MechanicalCounterViewController.m */; };
+		EEA20E5E139808A600B95164 /* MechanicalCounterViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EEA20E5C139808A600B95164 /* MechanicalCounterViewController.xib */; };
+		EEA20E7B139808ED00B95164 /* MechanicalCounter.m in Sources */ = {isa = PBXBuildFile; fileRef = EEA20E7A139808ED00B95164 /* MechanicalCounter.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		EE2404191398B96E009F5167 /* sfondo_devapp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sfondo_devapp.png; sourceTree = "<group>"; };
+		EE24041C1398BAE1009F5167 /* button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button.png; sourceTree = "<group>"; };
+		EE7381A61398354600E14150 /* mc_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_10.png; sourceTree = "<group>"; };
+		EE7381B01398354600E14150 /* mc_11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_11.png; sourceTree = "<group>"; };
+		EE7381B11398354600E14150 /* mc_12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_12.png; sourceTree = "<group>"; };
+		EE7381B21398354600E14150 /* mc_13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_13.png; sourceTree = "<group>"; };
+		EE7381B31398354600E14150 /* mc_15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_15.png; sourceTree = "<group>"; };
+		EE7381B41398354600E14150 /* mc_14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_14.png; sourceTree = "<group>"; };
+		EE7381B51398354600E14150 /* mc_16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_16.png; sourceTree = "<group>"; };
+		EE7381B61398354600E14150 /* mc_17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_17.png; sourceTree = "<group>"; };
+		EE7381B71398354600E14150 /* mc_18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_18.png; sourceTree = "<group>"; };
+		EE7381B81398354600E14150 /* mc_19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_19.png; sourceTree = "<group>"; };
+		EE7381CE13983CB000E14150 /* mc_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_1.png; sourceTree = "<group>"; };
+		EE7381CF13983CB000E14150 /* mc_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_2.png; sourceTree = "<group>"; };
+		EE7381D013983CB100E14150 /* mc_3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_3.png; sourceTree = "<group>"; };
+		EE7381D113983CB100E14150 /* mc_4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_4.png; sourceTree = "<group>"; };
+		EE7381D213983CB100E14150 /* mc_5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_5.png; sourceTree = "<group>"; };
+		EE7381D313983CB100E14150 /* mc_6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_6.png; sourceTree = "<group>"; };
+		EE7381D413983CB100E14150 /* mc_7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_7.png; sourceTree = "<group>"; };
+		EE7381D513983CB200E14150 /* mc_8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_8.png; sourceTree = "<group>"; };
+		EE7381D613983CB200E14150 /* mc_9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_9.png; sourceTree = "<group>"; };
+		EE7381E013983D0800E14150 /* mc_0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = mc_0.png; sourceTree = "<group>"; };
+		EEA20E40139808A600B95164 /* MechanicalCounter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MechanicalCounter.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EEA20E44139808A600B95164 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		EEA20E46139808A600B95164 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		EEA20E48139808A600B95164 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		EEA20E4C139808A600B95164 /* MechanicalCounter-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MechanicalCounter-Info.plist"; sourceTree = "<group>"; };
+		EEA20E4E139808A600B95164 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		EEA20E50139808A600B95164 /* MechanicalCounter-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "MechanicalCounter-Prefix.pch"; sourceTree = "<group>"; };
+		EEA20E51139808A600B95164 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EEA20E53139808A600B95164 /* MechanicalCounterAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MechanicalCounterAppDelegate.h; sourceTree = "<group>"; };
+		EEA20E54139808A600B95164 /* MechanicalCounterAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MechanicalCounterAppDelegate.m; sourceTree = "<group>"; };
+		EEA20E57139808A600B95164 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		EEA20E59139808A600B95164 /* MechanicalCounterViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MechanicalCounterViewController.h; sourceTree = "<group>"; };
+		EEA20E5A139808A600B95164 /* MechanicalCounterViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MechanicalCounterViewController.m; sourceTree = "<group>"; };
+		EEA20E5D139808A600B95164 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MechanicalCounterViewController.xib; sourceTree = "<group>"; };
+		EEA20E79139808ED00B95164 /* MechanicalCounter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MechanicalCounter.h; sourceTree = "<group>"; };
+		EEA20E7A139808ED00B95164 /* MechanicalCounter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MechanicalCounter.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EEA20E3D139808A600B95164 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EEA20E45139808A600B95164 /* UIKit.framework in Frameworks */,
+				EEA20E47139808A600B95164 /* Foundation.framework in Frameworks */,
+				EEA20E49139808A600B95164 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EEA20E35139808A500B95164 = {
+			isa = PBXGroup;
+			children = (
+				EEA20E4A139808A600B95164 /* MechanicalCounter */,
+				EEA20E43139808A600B95164 /* Frameworks */,
+				EEA20E41139808A600B95164 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EEA20E41139808A600B95164 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EEA20E40139808A600B95164 /* MechanicalCounter.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EEA20E43139808A600B95164 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EEA20E44139808A600B95164 /* UIKit.framework */,
+				EEA20E46139808A600B95164 /* Foundation.framework */,
+				EEA20E48139808A600B95164 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EEA20E4A139808A600B95164 /* MechanicalCounter */ = {
+			isa = PBXGroup;
+			children = (
+				EE2404191398B96E009F5167 /* sfondo_devapp.png */,
+				EE24041C1398BAE1009F5167 /* button.png */,
+				EEA20E64139808B900B95164 /* MC */,
+				EEA20E53139808A600B95164 /* MechanicalCounterAppDelegate.h */,
+				EEA20E54139808A600B95164 /* MechanicalCounterAppDelegate.m */,
+				EEA20E56139808A600B95164 /* MainWindow.xib */,
+				EEA20E59139808A600B95164 /* MechanicalCounterViewController.h */,
+				EEA20E5A139808A600B95164 /* MechanicalCounterViewController.m */,
+				EEA20E5C139808A600B95164 /* MechanicalCounterViewController.xib */,
+				EEA20E4B139808A600B95164 /* Supporting Files */,
+			);
+			path = MechanicalCounter;
+			sourceTree = "<group>";
+		};
+		EEA20E4B139808A600B95164 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EEA20E4C139808A600B95164 /* MechanicalCounter-Info.plist */,
+				EEA20E4D139808A600B95164 /* InfoPlist.strings */,
+				EEA20E50139808A600B95164 /* MechanicalCounter-Prefix.pch */,
+				EEA20E51139808A600B95164 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EEA20E64139808B900B95164 /* MC */ = {
+			isa = PBXGroup;
+			children = (
+				EE7381CE13983CB000E14150 /* mc_1.png */,
+				EE7381CF13983CB000E14150 /* mc_2.png */,
+				EE7381D013983CB100E14150 /* mc_3.png */,
+				EE7381D113983CB100E14150 /* mc_4.png */,
+				EE7381D213983CB100E14150 /* mc_5.png */,
+				EE7381D313983CB100E14150 /* mc_6.png */,
+				EE7381D413983CB100E14150 /* mc_7.png */,
+				EE7381D513983CB200E14150 /* mc_8.png */,
+				EE7381D613983CB200E14150 /* mc_9.png */,
+				EE7381E013983D0800E14150 /* mc_0.png */,
+				EE7381A61398354600E14150 /* mc_10.png */,
+				EE7381B01398354600E14150 /* mc_11.png */,
+				EE7381B11398354600E14150 /* mc_12.png */,
+				EE7381B21398354600E14150 /* mc_13.png */,
+				EE7381B41398354600E14150 /* mc_14.png */,
+				EE7381B31398354600E14150 /* mc_15.png */,
+				EE7381B51398354600E14150 /* mc_16.png */,
+				EE7381B61398354600E14150 /* mc_17.png */,
+				EE7381B71398354600E14150 /* mc_18.png */,
+				EE7381B81398354600E14150 /* mc_19.png */,
+				EEA20E79139808ED00B95164 /* MechanicalCounter.h */,
+				EEA20E7A139808ED00B95164 /* MechanicalCounter.m */,
+			);
+			name = MC;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EEA20E3F139808A600B95164 /* MechanicalCounter */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EEA20E61139808A600B95164 /* Build configuration list for PBXNativeTarget "MechanicalCounter" */;
+			buildPhases = (
+				EEA20E3C139808A600B95164 /* Sources */,
+				EEA20E3D139808A600B95164 /* Frameworks */,
+				EEA20E3E139808A600B95164 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MechanicalCounter;
+			productName = MechanicalCounter;
+			productReference = EEA20E40139808A600B95164 /* MechanicalCounter.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EEA20E37139808A500B95164 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = home;
+			};
+			buildConfigurationList = EEA20E3A139808A500B95164 /* Build configuration list for PBXProject "MechanicalCounter" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EEA20E35139808A500B95164;
+			productRefGroup = EEA20E41139808A600B95164 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EEA20E3F139808A600B95164 /* MechanicalCounter */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		EEA20E3E139808A600B95164 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EEA20E4F139808A600B95164 /* InfoPlist.strings in Resources */,
+				EEA20E58139808A600B95164 /* MainWindow.xib in Resources */,
+				EEA20E5E139808A600B95164 /* MechanicalCounterViewController.xib in Resources */,
+				EE7381BA1398354600E14150 /* mc_10.png in Resources */,
+				EE7381C41398354600E14150 /* mc_11.png in Resources */,
+				EE7381C51398354600E14150 /* mc_12.png in Resources */,
+				EE7381C61398354600E14150 /* mc_13.png in Resources */,
+				EE7381C71398354600E14150 /* mc_15.png in Resources */,
+				EE7381C81398354600E14150 /* mc_14.png in Resources */,
+				EE7381C91398354600E14150 /* mc_16.png in Resources */,
+				EE7381CA1398354600E14150 /* mc_17.png in Resources */,
+				EE7381CB1398354600E14150 /* mc_18.png in Resources */,
+				EE7381CC1398354600E14150 /* mc_19.png in Resources */,
+				EE7381D713983CB200E14150 /* mc_1.png in Resources */,
+				EE7381D813983CB200E14150 /* mc_2.png in Resources */,
+				EE7381D913983CB200E14150 /* mc_3.png in Resources */,
+				EE7381DA13983CB200E14150 /* mc_4.png in Resources */,
+				EE7381DB13983CB200E14150 /* mc_5.png in Resources */,
+				EE7381DC13983CB200E14150 /* mc_6.png in Resources */,
+				EE7381DD13983CB200E14150 /* mc_7.png in Resources */,
+				EE7381DE13983CB200E14150 /* mc_8.png in Resources */,
+				EE7381DF13983CB200E14150 /* mc_9.png in Resources */,
+				EE7381E113983D0800E14150 /* mc_0.png in Resources */,
+				EE24041A1398B96E009F5167 /* sfondo_devapp.png in Resources */,
+				EE24041D1398BAE1009F5167 /* button.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EEA20E3C139808A600B95164 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EEA20E52139808A600B95164 /* main.m in Sources */,
+				EEA20E55139808A600B95164 /* MechanicalCounterAppDelegate.m in Sources */,
+				EEA20E5B139808A600B95164 /* MechanicalCounterViewController.m in Sources */,
+				EEA20E7B139808ED00B95164 /* MechanicalCounter.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		EEA20E4D139808A600B95164 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EEA20E4E139808A600B95164 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		EEA20E56139808A600B95164 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EEA20E57139808A600B95164 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		EEA20E5C139808A600B95164 /* MechanicalCounterViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				EEA20E5D139808A600B95164 /* en */,
+			);
+			name = MechanicalCounterViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		EEA20E5F139808A600B95164 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		EEA20E60139808A600B95164 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		EEA20E62139808A600B95164 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MechanicalCounter/MechanicalCounter-Prefix.pch";
+				INFOPLIST_FILE = "MechanicalCounter/MechanicalCounter-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		EEA20E63139808A600B95164 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "MechanicalCounter/MechanicalCounter-Prefix.pch";
+				INFOPLIST_FILE = "MechanicalCounter/MechanicalCounter-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EEA20E3A139808A500B95164 /* Build configuration list for PBXProject "MechanicalCounter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EEA20E5F139808A600B95164 /* Debug */,
+				EEA20E60139808A600B95164 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EEA20E61139808A600B95164 /* Build configuration list for PBXNativeTarget "MechanicalCounter" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EEA20E62139808A600B95164 /* Debug */,
+				EEA20E63139808A600B95164 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EEA20E37139808A500B95164 /* Project object */;
+}
